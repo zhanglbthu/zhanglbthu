@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on computer vision&graphics! 🚀  
+I'm currently working on computer graphics&vision! 🚀  
 You can reach me through WeChat(zhanglbthu), QQ(1610062423) or email(1610062423@qq.com) 💻
 
 ![zhanglb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanglbthu&show_icons=true&theme=radical)
