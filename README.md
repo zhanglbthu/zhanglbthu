@@ -1,5 +1,5 @@
 ### Hi there 👋
-🚀 I'm currently working on computer graphics & vision 
+🚀 I'm currently working on computer graphics & 3d vision 
 
 🏓 enjoy lol, swimming and table tennis
 
